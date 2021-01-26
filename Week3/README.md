@@ -4,7 +4,7 @@
 
 These are the topics for week 3:
 
-1. [Group Project!](../PROJECT.md);
+1. [Group Project!](../PROJECT.md)
   - Sunday: Group demonstrations and feedback on the projects
   - Mock interview (Test)
 
