@@ -1,6 +1,7 @@
 # Homework Browsers Week 2
 
-## TODO: Fill in group project thing
+## UNDER CONSTRUCTION
+This module is still under construction, if you are a student that is already here then please message Rob van Kruijsdijk on slack
 
 ## **Todo list**
 
