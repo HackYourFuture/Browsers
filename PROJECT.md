@@ -13,10 +13,19 @@ To make it clearer this is the schedule:
 ![Weekflow](assets/project-weeks.png)
 
 ## The project repository
-You can have a look at the base project repository on the HYF Belgium github over [here](https://github.com/HackYourFutureBelgium/js-quiz-starter). Your mentor will (either himself, or ask one of you) to be cloning this repository to provide the space that your team will be combining code. There is a base folder structure as well as website given, but feel free to change anything you want. This is your group's project and you can adjust it to your liking!
+You can have a look at the base project repository over [here](https://github.com/HackYourFuture/browser-quiz-project-starter). Your mentor will (either himself, or ask one of you) to be cloning this repository to provide the space that your team will be combining code. There is a base folder structure as well as website given, but feel free to change anything you want. This is your group's project and you can adjust it to your liking!
 
 ### The features
-In the project repository there is also a [feature list](https://github.com/HackYourFutureBelgium/js-quiz-starter/blob/master/planning/backlog.md). See this as a guide, you as a group can determine what you want to work on.
+In the project repository there is also a [backlog](https://github.com/HackYourFuture/browser-quiz-project-starter#backlog). See this as a guide to what user stories you can do, you as a group can determine what you want to work on.
+
+## The presentation
+On the last Sunday every group will present their project to the others. The presentation should be about 15 minutes in which you do the following:
+
+- Demo the application, showing all the features you built
+- Go through the code base, explain the files you made and what does what
+- Hightlight one feature and explain how that feature was implemented
+
+The rest of the group, including the mentors will give your team feedback on your application and your code. Write these things down, as you will be fixing that in the 2 days after the presentation.
 
 ## The interview
 At the end of the module you will have a mock tech interview as the test for this module. The structure of these interviews are generally as follows:
