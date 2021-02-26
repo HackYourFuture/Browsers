@@ -5,7 +5,7 @@
 1. Presentation Module week 1
 2. Practice the concepts
 3. Homework exercises
-4. JavaScript 30 Refactors
+4. Extra: JavaScript 30 Refactors
 
 ## **1. Presentation**
 
@@ -21,7 +21,7 @@ Before we head into the exercises, it might be nice to do some interactive exerc
 
 This week we expect you to do the exercises in the corresponding module/week folder (Browsers / Week 1). Have a look at your class repository on how to hand in the homework.
 
-## **4. JavaScript 30 Refactors**
+## **4. Extra: JavaScript 30 Refactors**
 
 There's an outstanding series of tutorials called [The JavaScript 30](https://javascript30.com/) put together by [Wes Bos](https://wesbos.com), it's 30 small frontend projects with video tutorials and finished code to study. You will learn a lot from Wes Bos but his tutorials are just the beginning of your study.
 
@@ -29,7 +29,7 @@ All of his finished code is in a single file, the main objective of this module 
 
 To keep track of your progress through the JS 30 and to store your refactored projects there's the following [the javascript-30](https://github.com/HackYourFutureBelgium/JavaScript-30) repo provided by HYF Belgium. In this repo you will find more detailed instructions on how to work your way through these projects, as well as a folder structure for your refactors and a checklist to keep track of your progress. Fork this repository to your own github to serve as your basis.
 
-Your goal for the rest of the curriculum is to refactor as many JS 30 projects into your repository as you can as they show you cool tricks that you can do. 
+Your goal for the rest of the curriculum is to refactor as many JS 30 projects into your repository as you can as they show you cool tricks that you can do. This does not have to be done this week, this is a 'when I have time' suggestion! 
 
 Here are some suggestions to start with:
 
