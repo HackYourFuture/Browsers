@@ -23,7 +23,7 @@ On the last Sunday every group will present their project to the others. The pre
 
 - Demo the application, showing all the features you built
 - Go through the code base, explain the files you made and what does what
-- Hightlight one feature and explain how that feature was implemented
+- Highlight one feature and explain how that feature was implemented
 
 The rest of the group, including the mentors will give your team feedback on your application and your code. Write these things down, as you will be fixing that in the 2 days after the presentation.
 
