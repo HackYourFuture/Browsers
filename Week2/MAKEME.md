@@ -1,8 +1,5 @@
 # Homework Browsers Week 2
 
-## UNDER CONSTRUCTION
-This module is still under construction, if you are a student that is already here then please message Rob van Kruijsdijk on slack
-
 ## **Todo list**
 
 1. Presentation Module week 2
