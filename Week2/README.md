@@ -8,7 +8,7 @@ These are the topics for week 2:
 2. [Revisit Naming conventions](https://hackyourfuture.github.io/study/#/programming/naming-conventions)
 3. [DRY](https://study.hackyourfuture.net/#/programming/dont-repeat-yourself)
 3. [Incremental Coding](https://study.hackyourfuture.net/#/programming/incremental-coding)
-4. [Presentation module week 2](https://github.com/HackYourFuture/presentation-module/blob/main/week2.md)
+4. [Presentation module week 2](https://github.com/HackYourFuture/presentation-module/blob/main/assignment2.md)
 5. [Group Project time!](../PROJECT.md)
 
 
