@@ -8,7 +8,7 @@
 
 ## **1. Presentation**
 
-Prepare a 5-10 minute presentation as described [here](https://github.com/HackYourFuture/presentation-module/blob/main/assignment1.md) and give feedback to the classmate you are paired up to.
+Have a look at the assignment over [here](https://github.com/HackYourFuture/presentation-module/blob/main/assignment1.md).
 
 ## **2. JavaScript 30 Refactors (Optional)**
 
