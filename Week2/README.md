@@ -8,7 +8,7 @@ These are the topics for week 2:
 2. [Revisit Naming conventions](https://hackyourfuture.github.io/study/#/programming/naming-conventions)
 3. [DRY](https://study.hackyourfuture.net/#/programming/dont-repeat-yourself)
 3. [Incremental Coding](https://study.hackyourfuture.net/#/programming/incremental-coding)
-4. [Presentation module week 2](https://github.com/HackYourFuture/presentation-module/blob/main/assignment2.md)
+4. [Presentation module week 1](https://github.com/HackYourFuture/presentation-module/blob/main/week1.md)
 5. [Group Project time!](../PROJECT.md)
 
 
@@ -19,7 +19,7 @@ Learn more about the project [here](../PROJECT.md). The project will start on Su
 
 This will also be the first time you are going to work with bigger code bases and less defined problems. It is therefore a good idea to revisit some of the material that was mentioned in your JavaScript module on coding practices. Refresh your memory on the topic of [Naming conventions](https://hackyourfuture.github.io/study/#/programming/naming-conventions) and have a look at the [DRY principle](https://study.hackyourfuture.net/#/programming/dont-repeat-yourself). We would also like to introduce you to a technique that programmers use to be able to solve problems in such a way that you do not get lost: Incremental Coding. Read all about it [here](https://study.hackyourfuture.net/#/programming/incremental-coding) and get into the habit of using this technique whenever you are solving a tough problem like the ones you will face in the project! It will save you a lot of headaches.
 
-It is also time to finish off the presentation module with week 2. Have a look [here](https://github.com/HackYourFuture/presentation-module/blob/main/week2.md) what is expected. These skills will help you in your standup, as well as when demoing your project at the end of the 2 weeks.
+Besides that we will also work on our soft skills by following the first week of the presentation module. Have a look [here](https://github.com/HackYourFuture/presentation-module/blob/main/week1.md) to see what is expected.
 
 ## Finished?
 
