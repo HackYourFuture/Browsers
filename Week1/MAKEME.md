@@ -2,26 +2,21 @@
 
 ## **Todo list**
 
-1. Presentation Module week 1
-2. Practice the concepts
-3. Homework exercises
-4. Extra: JavaScript 30 Refactors
+1. Practice the concepts
+2. Homework exercises
+3. Extra: JavaScript 30 Refactors
 
-## **1. Presentation**
-
-Prepare a 5-10 minute presentation as described in [presentation-module/week1.md](https://github.com/HackYourFuture/presentation-module/blob/main/week1.md)
-
-## **2. Practice the concepts**
+## **1. Practice the concepts**
 
 Before we head into the exercises, it might be nice to do some interactive exercises first! In the following resource you'll find some exercises that'll teach you the basics of the interaction between JavaScript and the DOM:
 
 - [Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
-## **3. Homework exercises**
+## **2. Homework exercises**
 
 This week we expect you to do the exercises in the corresponding module/week folder (Browsers / Week 1). Have a look at your class repository on how to hand in the homework.
 
-## **4. Extra: JavaScript 30 Refactors**
+## **3. Extra: JavaScript 30 Refactors**
 
 There's an outstanding series of tutorials called [The JavaScript 30](https://javascript30.com/) put together by [Wes Bos](https://wesbos.com), it's 30 small frontend projects with video tutorials and finished code to study. You will learn a lot from Wes Bos but his tutorials are just the beginning of your study.
 
