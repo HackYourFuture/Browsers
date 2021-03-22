@@ -7,7 +7,7 @@ These are the topics for week 3:
 1. [Group Project!](../PROJECT.md)
   - Sunday: Group demonstrations and feedback on the projects
   - Mock interview (Test)
-
+2. [Final presentation](https://github.com/HackYourFuture/presentation-module/blob/main/assignment2.md)
 
 ## Week goals
 For most of this week you are going to be finishing up your project, there are no new reading materials! Have a look at the project explanation [here](../PROJECT.md) to see what is expected.
