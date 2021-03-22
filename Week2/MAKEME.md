@@ -2,13 +2,13 @@
 
 ## **Todo list**
 
-1. Presentation Module week 2
+1. Presentation assignment 1
 2. JavaScript 30 Refactors (Optional)
 3. Project!
 
 ## **1. Presentation**
 
-Prepare a 5-10 minute presentation as described in [presentation-module/week2.md](https://github.com/HackYourFuture/presentation-module/blob/main/week2.md). A member of the HYF core team will plan a time with you to do this in the coming week!
+Prepare a 5-10 minute presentation as described [here](https://github.com/HackYourFuture/presentation-module/blob/main/assignment1.md) and give feedback to the classmate you are paired up to.
 
 ## **2. JavaScript 30 Refactors (Optional)**
 
