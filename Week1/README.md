@@ -17,7 +17,6 @@ These are the topics for week 1:
    - Browser events
    - Event listeners and handlers
 
-
 ## Week goals
 All of the detailed information about every concept is in your study book. The following goal explanation will link you to the correct place to get studying. Read through the goal description once to get an idea of what you will be learning, then go through the different links (either from the agenda or this goal list).
 
