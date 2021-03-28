@@ -15,13 +15,12 @@ Before the first sunday there is one thing to do and that is set up a repository
 ### First sunday
 On the first sunday we will divide the class into the groups and you will have your own room with your group. This is the time to do the following:
 
-- make sure there is a slack channel for your group, a hyf core member should have made it for you but if not let one of them know
-- go through the starter repository to explain code structure. This is their first time writing JavaScript multiple files so explain why we do this for bigger projects
-- show a single PR lifecycle on how code gets into the master branch. The students will know about PR's from their homework and will have read about Agile, but I think it is nice to have a demo of it
+- go through the starter repository to explain code structure. This is their first time writing JavaScript multiple files so explain why we do this for bigger projects. There is a basic implementation of questions and being able to click through them you can use as an example.
+- show a single PR lifecycle on how code gets into the master branch. The students will know about PR's from their homework and will have read about Agile, but I think it is nice to have a demo of it. We suggest some css changes to make the quiz look a little better.
 - explain to your team how the upcoming week is going to work. We want them to have a daily standup meeting to get to know how that works, but this can also be done via slack messages if that is easier for you. Make sure you let your group know how you would like to have questions for you to be sent (in the slack channel? Grouped and given in a daily meeting?). Whatever works for you.
 - look through the list of features and discuss them with the team to prioritize them. You will be playing Product Owner, Scrum master and Tech lead in this project.
 - Divide the team into smaller groups (probably 2 groups of 2) and give them their first feature. If you have time, you may want to do one feature together with them to get an idea how it all works.
-- Organise the features into a list of things to pick up and explain that the team themselves can decide what to pick up next.
+- And most importantly! Think of a team name and let Tjebbe or Rob know so they can create a nice slack channel for you to communicate in!
 
 ### During the week
 There are a couple things we would like you to do during the week:
