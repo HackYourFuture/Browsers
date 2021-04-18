@@ -14,7 +14,7 @@ Before we head into the exercises, it might be nice to do some interactive exerc
 
 ## **2. Homework exercises**
 
-This week we expect you to do the exercises in the corresponding module/week folder (Browsers / Week 1). Have a look at your class repository on how to hand in the homework.
+This week we expect you to do the exercises in the corresponding module/week folder (Browsers / Week 1). Have a look at the [homework guide](https://github.com/HackYourFuture/Browsers/blob/main/hand-in-homework-guide.md) to see how to hand in your homework.
 
 ## **3. Extra: JavaScript 30 Refactors**
 
