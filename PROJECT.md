@@ -29,7 +29,6 @@ A question we get a lot is `is there a standard folder structure?` or `is this t
 >Individual files are easier to track. Code is ideally in a version control system. Knowing that backend/datastore/fileio.cpp changed is already quite informative, and lets you know whether the change is relevant for you. If everything is a single file, you get line 254–378 in app.cpp changed, and have to look up the context yourself.
 
 Basically, a single file is easy to write. Multiple files are much easy to read, maintain and manage. For software development, the later is much more important. Even if you are working alone, future-you does not know everything that past-you has done.
-```
 
 This also means that the folder structure can change as your application changes, as long as you keep the basic principles in mind: you want to separate code into logical parts and similarly want to separate your files into logical folders so that it helps you identify what each file is responsible for. This will make bigger code bases more manageable for teams as well as your future self.
 
