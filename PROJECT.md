@@ -18,16 +18,15 @@ You can have a look at the base project repository over [here](https://github.co
 ### The folder structure
 A question we get a lot is `is there a standard folder structure?` or `is this the way all projects are organised?` and the answer to both is no. There is no best way to organise code and this comes down to the project as well as the framework(s) you are using. The thing to keep in mind is why we split files into folders. There is a great answer to this question by Max Fisher [here](https://www.quora.com/Why-do-you-want-to-split-your-program-code-into-multiple-files) that says:
 
-```
-It is basic organisation. Imagine a library would glue every new book to a stack of the old ones. Lord of the Rings would turn from a door stopper to a door. After defeating Sauron, the reader would smoothly transition to The Little Mermaid, before plunging into 50 Shades of Grey.
+>It is basic organisation. Imagine a library would glue every new book to a stack of the old ones. Lord of the Rings would turn from a door stopper to a door. After defeating Sauron, the reader would smoothly transition to The Little Mermaid, before plunging into 50 Shades of Grey.
 
-Small files are easier to stomach. If every file serves only one topic, you know quickly where to look. You also immediately know what does not belong to the topic, without having to read through commentary.
+>Small files are easier to stomach. If every file serves only one topic, you know quickly where to look. You also immediately know what does not belong to the topic, without having to read through commentary.
 
-Multiple files allow for non-linear organisation. The building blocks of a program rarely follow a single, linear chain of interactions. Loosely coupled components are easily represented by individual files, and folders allow to add external structure.
+>Multiple files allow for non-linear organisation. The building blocks of a program rarely follow a single, linear chain of interactions. Loosely coupled components are easily represented by individual files, and folders allow to add external structure.
 
-Distinct files are easier to reorganise. As complexity grows, components move to sub packages, and sometimes you just need to clean up. A file can simply be moved as a whole. Copy/Pasting to migrate code is more work, especially if you have tacked on all the structuring manually.
+>Distinct files are easier to reorganise. As complexity grows, components move to sub packages, and sometimes you just need to clean up. A file can simply be moved as a whole. Copy/Pasting to migrate code is more work, especially if you have tacked on all the structuring manually.
 
-Individual files are easier to track. Code is ideally in a version control system. Knowing that backend/datastore/fileio.cpp changed is already quite informative, and lets you know whether the change is relevant for you. If everything is a single file, you get line 254–378 in app.cpp changed, and have to look up the context yourself.
+>Individual files are easier to track. Code is ideally in a version control system. Knowing that backend/datastore/fileio.cpp changed is already quite informative, and lets you know whether the change is relevant for you. If everything is a single file, you get line 254–378 in app.cpp changed, and have to look up the context yourself.
 
 Basically, a single file is easy to write. Multiple files are much easy to read, maintain and manage. For software development, the later is much more important. Even if you are working alone, future-you does not know everything that past-you has done.
 ```
