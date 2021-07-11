@@ -26,9 +26,9 @@ On the first sunday we will divide the class into the groups and you will have y
 There are a couple things we would like you to do during the week:
 
 - Be available for questions and check in with your group. A week is not a lot of time and we have noticed some are not comfortable yet to ask for help so a quick 'How is it going guys?' every now and then to see what is happening will help move things along.
-- Have a look at the PRs and code review them. Once approved you can merge it into the master branch!
+- Have a look at the PRs and code review them. Once approved you can merge it into the main branch!
 
 ### Second Sunday
 On the second Sunday we want to get together with the whole class and show off the projects that were made. Decide amongst the group who will present the project to the other groups. This is both a demo of the application as well as going through the code for one feature.
 
-As a mentor on this day we would like you to provide feedback to the other groups and what they built. It is ok to be harsh here, it will only help them improve.
+As a mentor on this day we would like you to provide feedback to the other groups and what they built.

@@ -1,6 +1,6 @@
 # The Group Project
 
-The goal of the project is to combine everything you have learned into a practical example to show you what you can already do with the knowledge you have! We also want to introduce you to working in a team and will provide you with a mentor that will guide you through this process. In the end it will be a variation of something like the following (a project made by the students of class 31):
+The goal of the project is to combine everything you have learned into a practical example to show you what you can already do with the knowledge you have! We also want to introduce you to working in a team and will provide you with a mentor that will guide you through this process. In the end it will be a variation of something like the following (a project made by some of the students of class 31):
 
 [![JS-quiz](assets/js-quiz.png)](https://88kiwan.github.io/quiz_app/index.html)
 
@@ -34,8 +34,24 @@ This also means that the folder structure can change as your application changes
 
 Having explained that, the readme in the project repo explains the initial folder [structure](https://github.com/HackYourFuture/browser-quiz-project-starter#structure) this application is using. If you as a group want to reorganise it, that is also fine, as long as you can explain the logic behind it!
 
-### The features
-In the project repository there is also a [backlog](https://github.com/HackYourFuture/browser-quiz-project-starter#backlog). See this as a guide to what user stories you can do, but you as a group can determine what you want to work on.
+### The requirements
+In general we want to give you a little freedom on what you want to build, but there are a couple of requirements that the final project should adhere to:
+
+- The project needs to be a quiz
+- The quiz needs to require the user to answer 10 questions
+- Every question in the quiz needs to have 4 answers
+- There needs to be a button to go to the next question
+- The UI needs to be testable using at least the following `data-testid`'s:
+    - `answer-a` - The button to click to select answer A
+    - `answer-b` - The button to click to select answer B
+    - `answer-c` - The button to click to select answer C
+    - `answer-d` - The button to click to select answer D
+    - `next-question` - The button to click to go to the next question
+    - Depending on your features you want to add more test id's
+- The project needs to be deployed somewhere so that we can see it (before the last Sunday)
+
+#### Features
+In the project repository there is also a [backlog](https://github.com/HackYourFuture/browser-quiz-project-starter#backlog). See this as a guide, the `must-have`'s are required, the `nice-to-have`'s are suggestions for extra features, but feel free to think of your own.
 
 ## The presentation
 On the last Sunday every group will present their project to the others. The presentation should be a maximum of 15 minutes in which you do the following:
