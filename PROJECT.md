@@ -65,15 +65,21 @@ The rest of the group, including the mentors will give your team feedback on you
 ## The interview
 At the end of the module you will have a mock tech interview as the test for this module. The structure of these interviews are generally as follows:
 
-- You will be asked to share your screen and demo the project. Make it short, only a couple of minutes.
-- We will ask you to take a look at the code and explain the folder structure of the project (everything in the 'src' folder)
-- We will then ask you what features you helped build.
-- One of these features will be picked and we will ask you to explain how you implemented it by walking through the code.
-- On the way we will ask you about certain lines of code. Questions like: 'What does this line do?', 'What would happen if I removed this line/piece of code?', 'Why did you use a switch statement here?', etc.
+- You will first be asked some concept questions. Stuff like: 'What is the DOM?' 'What does an event listener do?', etc.
+- You will then be asked to share your screen and demo the project. Make it short, only a couple of minutes and pretend like you are presenting it to someone who has never seen it before.
+- We will ask you to demo the code. Generally you want to:
+    - explain the folder structure of the project (everything in the 'src' folder). What are the files in each folder responsible for?
+    - choose one or two feature(s) of your app and go through how that feature is implemented
+- During or after your code demo we will ask you about certain lines of code. Questions like: 'What does this line do?', 'Why did you implement it like this?', 'Why did you use a switch statement here?', etc.
+
+### Browser specific
+In the Browser module we add one more step to the interview:
+
 - In the end we will pick a feature that your group did not implement and ask you to broadly explain what needs to be done to implement that feature.
 
+### Preparation
 To prepare yourself best, here are some tips:
-- Practice the demonstration of your project, make sure it is short and concise
-- Be able to share your screen and have your project open locally
-- Go through the code of the features you built and make sure you understand what it is doing
+- Practice the demonstration of your project and your code, make sure it is short and concise
+- Be able to share your screen and have your project open locally (and make sure it still works)
+- Go through the code of the project and make sure you understand how it works
 - Look at the other features in the project repository and get an idea of what is needed to implement them
