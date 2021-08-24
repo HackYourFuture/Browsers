@@ -72,8 +72,8 @@ At the end of the module you will have a mock tech interview as the test for thi
     - choose one or two feature(s) of your app and go through how that feature is implemented
 - During or after your code demo we will ask you about certain lines of code. Questions like: 'What does this line do?', 'Why did you implement it like this?', 'Why did you use a switch statement here?', etc.
 
-### Browser specific
-In the Browser module we add one more step to the interview:
+### Browsers module specific
+In the Browsers module we add one more step to the interview:
 
 - In the end we will pick a feature that your group did not implement and ask you to broadly explain what needs to be done to implement that feature.
 
