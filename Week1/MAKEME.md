@@ -5,6 +5,7 @@
 1. Practice the concepts
 2. Homework exercises
 3. Extra: JavaScript 30 Refactors
+4. Optional: Side project ideas
 
 ## **1. Practice the concepts**
 
@@ -42,3 +43,12 @@ Here are some suggestions to start with:
 - #22: Follow Along Link Highlighter
 - #28: Video Speed Controller
 
+## **4. Optional: Side project ideas**
+
+> A part of the HackYourFuture curriculum is to work on as many side projects as you can throughout the time you have. This is a nice way to add extra knowledge to your arsenal and show in your CV that you are motivated to learn new technologies. This is also a great time to learn new things as there are plenty of mentors available to help you out in the `#projects` channel! You will not get this amount of time and support once you start working. Have a look at the [hyf_projects repo](https://github.com/HackYourFuture/hyf_projects/blob/main/README.md#project-2-a-try-out-application) for more details.
+
+### 4.1 Canvas and WebGL
+
+A very powerful and underused part of HTML is the [canvas element](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API). It allows you to create 2D and even 3D graphics. 3D graphics is very complex, but using some of the [libraries](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API#libraries) that are built on top of the canvas API is quite doable at this point of your studies. 
+
+Have a go by looking through the libraries and find one that has some cool examples. Try to recreate an example to get a nice basis, you can then add on a couple more features!
