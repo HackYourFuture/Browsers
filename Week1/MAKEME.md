@@ -3,9 +3,10 @@
 ## **Todo list**
 
 1. Practice the concepts
-2. Homework exercises
-3. Extra: JavaScript 30 Refactors
-4. Optional: Side project ideas
+2. Prep exercises
+3. Homework exercises
+5. Extra: JavaScript 30 Refactors
+6. Optional: Side project ideas
 
 ## **1. Practice the concepts**
 
@@ -13,13 +14,21 @@ Before we head into the exercises, it might be nice to do some interactive exerc
 
 - [Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
-## **2. Homework exercises**
+## **2. Prep exercises**
 
-This week we expect you to do the exercises in the corresponding module/week folder (Browsers / Week 1). Have a look at the [homework guide](https://github.com/HackYourFuture/Browsers/blob/main/hand-in-homework-guide.md) to see how to hand in your homework.
+> Prep exercises are exercises that you should work on _before_ the session on Sunday. These are a little more difficult or show an important concept and as such are a great exercise to talk about with your class and your Q&A mentor. Have a solution ready by Sunday as you may be asked to show what you did.
+
+Inside your `homework` fork, go to the folder `2-Browsers/Week1`. At the bottom there is a section called Prep Exercises for you to have a look at.
+
+## **3. Homework exercises**
+
+This week we expect you to do the exercises in the corresponding module/week folder (`2-Browsers/Week1`). Have a look at the [homework guide](https://github.com/HackYourFuture/Browsers/blob/main/hand-in-homework-guide.md) to see how to hand in your homework.
 
 *NOTE: do NOT forget to checkout the main branch before creating the branch for this week. Otherwise your previous homework will be a part of the PR*
 
-## **3. Extra: JavaScript 30 Refactors**
+*NOTE: The prep exercise of the previous section does not need to be handed in*
+
+## **4. Extra: JavaScript 30 Refactors**
 
 There's an outstanding series of tutorials called [The JavaScript 30](https://javascript30.com/) put together by [Wes Bos](https://wesbos.com), it's 30 small frontend projects with video tutorials and finished code to study. You will learn a lot from Wes Bos but his tutorials are just the beginning of your study.
 
@@ -43,7 +52,7 @@ Here are some suggestions to start with:
 - #22: Follow Along Link Highlighter
 - #28: Video Speed Controller
 
-## **4. Optional: Side project ideas**
+## **5. Optional: Side project ideas**
 
 > A part of the HackYourFuture curriculum is to work on as many side projects as you can throughout the time you have. This is a nice way to add extra knowledge to your arsenal and show in your CV that you are motivated to learn new technologies. This is also a great time to learn new things as there are plenty of mentors available to help you out in the `#projects` channel! You will not get this amount of time and support once you start working. Have a look at the [hyf_projects repo](https://github.com/HackYourFuture/hyf_projects/blob/main/README.md#project-2-a-try-out-application) for more details.
 

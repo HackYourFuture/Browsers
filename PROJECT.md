@@ -41,13 +41,6 @@ In general we want to give you a little freedom on what you want to build, but t
 - The quiz needs to require the user to answer 10 questions
 - Every question in the quiz needs to have 4 answers
 - There needs to be a button to go to the next question
-- The UI needs to be testable using at least the following `data-testid`'s:
-    - `answer-a` - The button to click to select answer A
-    - `answer-b` - The button to click to select answer B
-    - `answer-c` - The button to click to select answer C
-    - `answer-d` - The button to click to select answer D
-    - `next-question` - The button to click to go to the next question
-    - Depending on your features you want to add more test id's
 - The project needs to be deployed somewhere so that we can see it (before the last Sunday)
 
 #### Features
