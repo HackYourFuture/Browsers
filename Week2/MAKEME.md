@@ -21,7 +21,7 @@ Have a look at the [project description](../PROJECT.md) to see what to do here.
 
 ## **4. Optional: Post-project side project ideas**
 
-> A part of the HackYourFuture curriculum is to work on as many side projects as you can throughout the time you have. This is a nice way to add extra knowledge to your arsenal and show in your CV that you are motivated to learn new technologies. This is also a great time to learn new things as there are plenty of mentors available to help you out in the `#projects` channel! You will not get this amount of time and support once you start working. Have a look at the [hyf_projects repo](https://github.com/HackYourFuture/hyf_projects/blob/main/README.md#project-2-a-try-out-application) for more details.
+> A part of the HackYourFuture curriculum is to work on as many side projects as you can throughout the time you have. This is a nice way to add extra knowledge to your arsenal and show in your CV that you are motivated to learn new technologies. There are plenty of people available to help you out in the `#get-help` channel on Slack so definitely make use of that! Have a look at the [hyf_projects repo](https://github.com/HackYourFuture/hyf_projects/blob/main/README.md#project-2-a-try-out-application) for more details.
 
 ### 4.1 Project rewrite
 
