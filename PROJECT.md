@@ -44,7 +44,7 @@ In general we want to give you a little freedom on what you want to build, but t
 - The project needs to be deployed somewhere so that we can see it (before the last Sunday)
 
 #### Features
-In the project repository there is also a [backlog](https://github.com/HackYourFuture/browser-quiz-project-starter#backlog). See this as a guide, the `must-have`'s are required, the `nice-to-have`'s are suggestions for extra features, but feel free to think of your own.
+In the project repository there is also a [backlog](https://github.com/HackYourFuture/browser-quiz-project-starter#goal-and-backlog). See this as a guide, the `must-have`'s are required, the `nice-to-have`'s are suggestions for extra features, but feel free to think of your own.
 
 ## The presentation
 On the last Sunday every group will present their project to the others. The presentation should be a maximum of 15 minutes in which you do the following:
