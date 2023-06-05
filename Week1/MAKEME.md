@@ -2,17 +2,10 @@
 
 ## **Todo list**
 
-1. Practice the concepts
-2. Prep exercises
-3. Homework exercises
-5. Extra: JavaScript 30 Refactors
-6. Optional: Side project ideas
-
-## **1. Practice the concepts**
-
-Before we head into the exercises, it might be nice to do some interactive exercises first! In the following resource you'll find some exercises that'll teach you the basics of the interaction between JavaScript and the DOM:
-
-- [Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+1. Prep exercises
+1. Homework exercises
+1. Extra: JavaScript 30 Refactors
+1. Optional: Side project ideas
 
 ## **2. Prep exercises**
 
@@ -56,7 +49,7 @@ Here are some suggestions to start with:
 
 > A part of the HackYourFuture curriculum is to work on as many side projects as you can throughout the time you have. This is a nice way to add extra knowledge to your arsenal and show in your CV that you are motivated to learn new technologies. There are plenty of people available to help you out in the `#get-help` channel on Slack so definitely make use of that! Have a look at the [hyf_projects repo](https://github.com/HackYourFuture/hyf_projects/blob/main/README.md#project-2-a-try-out-application) for more details.
 
-### 4.1 Canvas and WebGL
+### 5.1 Canvas and WebGL
 
 A very powerful and underused part of HTML is the [canvas element](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API). It allows you to create 2D and even 3D graphics. 3D graphics is very complex, but using some of the [libraries](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API#libraries) that are built on top of the canvas API is quite doable at this point of your studies. 
 
