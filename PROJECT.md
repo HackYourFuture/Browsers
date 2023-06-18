@@ -2,7 +2,7 @@
 
 The goal of the project is to combine everything you have learned into a practical example to show you what you can already do with the knowledge you have! We also want to introduce you to working in a team and will provide you with a mentor that will guide you through this process. In the end it will be a variation of something like the following (a project made by some of the students of class 31):
 
-[![JS-quiz](assets/js-quiz.png)](https://88kiwan.github.io/quiz_app/index.html)
+[![JS-quiz](assets/js-quiz.png)](https://raynaney.github.io/browser-quiz-project-starter/)
 
 ## The plan
 
