@@ -20,7 +20,6 @@ On the first sunday we will divide the class into the groups and you will have y
 - explain to your team how the upcoming week is going to work. We want them to have a daily standup meeting to get to know how that works, but this can also be done via slack messages if that is easier for you. Make sure you let your group know how you would like to have questions for you to be sent (in the slack channel? Grouped and given in a daily meeting?). Whatever works for you.
 - look through the list of features and discuss them with the team to prioritize them. You will be playing Product Owner, Scrum master and Tech lead in this project.
 - Divide the team into smaller groups (probably 2 groups of 2) and give them their first feature. If you have time, you may want to do one feature together with them to get an idea how it all works.
-- And most importantly! Think of a team name and let Rob know so they can create a nice slack channel for you to communicate in!
 
 ### During the week
 There are a couple things we would like you to do during the week:
