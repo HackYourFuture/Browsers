@@ -1,23 +1,23 @@
-# Homework Browsers Week 1
+# Assignment Browsers Week 1
 
 ## **Todo list**
 
 1. Prep exercises
-1. Homework exercises
+1. Assignment
 1. Extra: JavaScript 30 Refactors
 1. Optional: Side project ideas
 
 ## **2. Prep exercises**
 
-> Prep exercises are exercises that you should work on _before_ the session on Sunday. These are a little more difficult or show an important concept and as such are a great exercise to talk about with your class and your Q&A mentor. Have a solution ready by Sunday as you may be asked to show what you did.
+> Prep exercises are exercises that you should work on _before_ the session on Sunday. These are a little more difficult or show an important concept and as such are a great exercise to talk about with your cohort and your Q&A mentor. Have a solution ready by Sunday as you may be asked to show what you did.
 
-Inside your `homework` fork, go to the folder `2-Browsers/Week1`. At the bottom there is a section called Prep Exercises for you to have a look at.
+Inside your `assignment` fork, go to the folder `2-Browsers/Week1`. At the bottom there is a section called Prep Exercises for you to have a look at.
 
-## **3. Homework exercises**
+## **3. Assignment**
 
-This week we expect you to do the exercises in the corresponding module/week folder (`2-Browsers/Week1`). Have a look at the [homework guide](https://github.com/HackYourFuture/Browsers/blob/main/hand-in-homework-guide.md) to see how to hand in your homework.
+This week we expect you to do the exercises in the corresponding module/week folder (`2-Browsers/Week1`). Have a look at the [assignment guide](https://github.com/HackYourFuture/Browsers/blob/main/hand-in-assignments-guide.md) to see how to hand in your assignment.
 
-*NOTE: do NOT forget to checkout the main branch before creating the branch for this week. Otherwise your previous homework will be a part of the PR*
+*NOTE: do NOT forget to checkout the main branch before creating the branch for this week. Otherwise your previous assignment will be a part of the PR*
 
 *NOTE: The prep exercise of the previous section does not need to be handed in*
 
