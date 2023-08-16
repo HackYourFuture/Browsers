@@ -1,4 +1,4 @@
-# Homework Browsers Week 2
+# Assignment Browsers Week 2
 
 ## **Todo list**
 
