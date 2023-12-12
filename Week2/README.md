@@ -5,11 +5,10 @@
 These are the topics for week 2:
 
 1. [Agile development](https://hackyourfuture.github.io/study/#/software-development/agile)
-1. [Revisit Naming conventions](https://hackyourfuture.github.io/study/#/programming/naming-conventions)
-1. [DRY](https://study.hackyourfuture.net/#/programming/dont-repeat-yourself)
-1. [Incremental Coding](https://study.hackyourfuture.net/#/programming/incremental-coding)
-1. [Your personal brand](https://github.com/HackYourFuture/yourpersonalbrand) - Continue reading!
-1. [Group Project time!](../PROJECT.md)
+2. [Revisit Naming conventions](https://hackyourfuture.github.io/study/#/programming/naming-conventions)
+3. [DRY](https://study.hackyourfuture.net/#/programming/dont-repeat-yourself)
+4. [Incremental Coding](https://study.hackyourfuture.net/#/programming/incremental-coding)
+5. [Group Project time!](../PROJECT.md)
 
 
 ## Week(s) goals
