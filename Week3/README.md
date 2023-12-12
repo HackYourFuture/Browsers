@@ -8,7 +8,6 @@ These are the topics for week 3:
   - Sunday: Group demonstrations and feedback on the projects
   - Mock interview (Test)
 2. [Final individual presentation](https://github.com/HackYourFuture/presentation-module/blob/main/assignment2.md)
-3. [Career Training I](https://github.com/HackYourFuture/yourpersonalbrand): Not all at once!
 
 ## Week goals
 For most of this week you are going to be finishing up your project, there are no new reading materials! Have a look at the project explanation [here](../PROJECT.md) to see what is expected.
