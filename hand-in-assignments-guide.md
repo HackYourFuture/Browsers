@@ -12,7 +12,7 @@ Watch the video (by clicking the image) or go through the following walk-through
 
 ONE TIME ONLY (START OF EVERY MODULE)
 
-This module is slightly different as you have already done the one time setup for the assignment repo in the previous module. We will be using the same fork as we used there (`https://www.github.com/HackYourHomework/Assignment-cohortXX`).
+This module is slightly different as you have already done the one time setup for the assignment repo in the previous module. We will be using the same fork as we used there (`https://www.github.com/HackYourAssignment/Assignment-cohortXX`).
 
 EVERY WEEK
 

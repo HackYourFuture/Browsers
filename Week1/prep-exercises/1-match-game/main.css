@@ -29,11 +29,12 @@ body main {
 
 .stick {
     display: inline-block;
-    height: 20px;
-    width: 4px;
+    height: 150px;
+    width: 20px;
     margin: 0 4px;
-    background: brown;
-    color: red;
+    background: url('match.png') no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .active_player {
