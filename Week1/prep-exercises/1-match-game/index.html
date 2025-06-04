@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Hack your Future - HTML/Javascript sticks game</title>
+
+    <link href="main.css" rel="stylesheet" />
+</head>
+<body>
+<h1>The sticks game</h1>
+    <div id="game_instruction">
+        <ul>
+            <li>There are 20 sticks in front of you</li>
+            <li>There are two players</li>
+            <li>Players take turns</li>
+            <li>At your turn you have to remove 1, 2 or 3 sticks</li>
+            <li>The one removing the last stick wins the game</li>
+        </ul>
+    </div>
+
+    <main id="main">
+        <div id="sticks"></div>
+
+        <div id="controls">
+            <button id="button_one">1</button>
+            <button id="button_two">2</button>
+            <button id="button_three">3</button>
+        </div>
+
+        <div id="players">
+            <span id="player_one">Player one</span>
+            <span id="player_two">Player two</span>
+        </div>
+    </main>
+
+
+<script src="./main.js"></script>
+</body>
+</html>

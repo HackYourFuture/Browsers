@@ -1,0 +1,47 @@
+body main {
+    padding: 2em;
+
+    width: fit-content;
+    margin: 2em auto;
+
+    border: 1px solid black;
+}
+
+#sticks {
+    padding: 1em 1em;
+    background: darkkhaki;
+    margin-bottom: 2em;
+}
+
+#controls {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+#players {
+    width: fit-content;
+    margin: 1em auto;
+}
+
+#players span {
+    padding: 0.5em;
+}
+
+.stick {
+    display: inline-block;
+    height: 20px;
+    width: 4px;
+    margin: 0 4px;
+    background: brown;
+    color: red;
+}
+
+.active_player {
+    background: purple;
+    color: white;
+}
+
+.winner {
+    background: darkgreen;
+    color: white;
+}

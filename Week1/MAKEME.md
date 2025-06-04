@@ -7,13 +7,13 @@
 1. Extra: JavaScript 30 Refactors
 1. Optional: Side project ideas
 
-## **2. Prep exercises**
+## **1. Prep exercises**
 
 > Prep exercises are exercises that you should work on _before_ the session on Sunday. These are a little more difficult or show an important concept and as such are a great exercise to talk about with your cohort and your Q&A mentor. Have a solution ready by Sunday as you may be asked to show what you did.
 
-Inside your `assignment` fork, go to the folder `2-Browsers/Week1`. At the bottom there is a section called Prep Exercises for you to have a look at.
+Inside your `Browsers` fork, go to the folder `Week1/prep-exercises`. For each exercise, you will find a separate folder. The README explains what needs to be done. There will also be some questions at the bottom to think about. Go through them before the session on Sunday as it will be covered then.
 
-## **3. Assignment**
+## **2. Assignment**
 
 This week we expect you to do the exercises in the corresponding module/week folder (`2-Browsers/Week1`). Have a look at the [assignment guide](https://github.com/HackYourFuture/Browsers/blob/main/hand-in-assignments-guide.md) to see how to hand in your assignment.
 
@@ -21,7 +21,7 @@ This week we expect you to do the exercises in the corresponding module/week fol
 
 *NOTE: The prep exercise of the previous section does not need to be handed in*
 
-## **4. Extra: JavaScript 30 Refactors**
+## **3. Extra: JavaScript 30 Refactors**
 
 There's an outstanding series of tutorials called [The JavaScript 30](https://javascript30.com/) put together by [Wes Bos](https://wesbos.com), it's 30 small frontend projects with video tutorials and finished code to study. You will learn a lot from Wes Bos but his tutorials are just the beginning of your study.
 
@@ -45,11 +45,11 @@ Here are some suggestions to start with:
 - #22: Follow Along Link Highlighter
 - #28: Video Speed Controller
 
-## **5. Optional: Side project ideas**
+## **4. Optional: Side project ideas**
 
 > A part of the HackYourFuture curriculum is to work on as many side projects as you can throughout the time you have. This is a nice way to add extra knowledge to your arsenal and show in your CV that you are motivated to learn new technologies. There are plenty of people available to help you out in the `#get-help` channel on Slack so definitely make use of that! Have a look at the [hyf_projects repo](https://github.com/HackYourFuture/hyf_projects/blob/main/README.md#project-2-a-try-out-application) for more details.
 
-### 5.1 Canvas and WebGL
+### 4.1 Canvas and WebGL
 
 A very powerful and underused part of HTML is the [canvas element](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API). It allows you to create 2D and even 3D graphics. 3D graphics is very complex, but using some of the [libraries](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API#libraries) that are built on top of the canvas API is quite doable at this point of your studies. 
 
